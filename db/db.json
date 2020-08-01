@@ -1,0 +1,152 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "username": "vyno",
+      "password": "asdf1234",
+      "email": "gyarmati.istvan.91@gmail.com"
+    },
+    {
+      "id": 1,
+      "username": "jani",
+      "password": "asdf123",
+      "email": "gyarmati.istvan.91@gmail.com"
+    },
+    {
+      "id": 2,
+      "username": "peti",
+      "password": "asdf12345",
+      "email": "gyarmati.istvan.91@gmail.com"
+    },
+    {
+      "id": 3,
+      "username": "feri",
+      "password": "asdf123456",
+      "email": "gyarmati.istvan.91@gmail.com"
+    },
+    {
+      "username": {},
+      "password": {},
+      "id": 4
+    },
+    {
+      "username": "name",
+      "password": "pass",
+      "id": 5
+    },
+    {
+      "username": "[object HTMLInputElement]",
+      "password": "[object HTMLInputElement]",
+      "id": 6
+    },
+    {
+      "username": "1231312",
+      "password": "sdafsdfasdf",
+      "id": 7
+    },
+    {
+      "username": "probauser",
+      "password": "proba",
+      "id": 8
+    }
+  ],
+  "lists": [
+    {
+      "id": 0,
+      "userid": 0,
+      "body": "probalista"
+    },
+    {
+      "id": 1,
+      "userid": 1,
+      "body": "probalistaa"
+    },
+    {
+      "id": 2,
+      "userid": 2,
+      "body": "probalistaaa"
+    },
+    {
+      "id": 3,
+      "userid": 3,
+      "body": "probalistaaaa"
+    },
+    {
+      "id": 4,
+      "userid": 0,
+      "body": "probalistaaaaa"
+    },
+    {
+      "id": 5,
+      "userid": 1,
+      "body": "probalistaaaaaa"
+    },
+    {
+      "id": 6,
+      "userid": 2,
+      "body": "probalistaaaaaaa"
+    }
+  ],
+  "list-comments": [
+    {
+      "id": 1,
+      "listid": 1,
+      "commentbody": "probacomment1"
+    },
+    {
+      "id": 2,
+      "listid": 3,
+      "commentbody": "probacomment2"
+    },
+    {
+      "id": 4,
+      "listid": 2,
+      "commentbody": "probacomment4"
+    },
+    {
+      "commentbody": "nagykutya11",
+      "id": 5,
+      "listid": "0"
+    },
+    {
+      "commentbody": "kiskutya",
+      "id": 7,
+      "listid": 0
+    },
+    {
+      "commentbody": "wert123321",
+      "id": 8,
+      "listid": "0"
+    },
+    {
+      "commentbody": "lolllololo",
+      "id": 11,
+      "listid": "4"
+    },
+    {
+      "commentbody": "kiskutyaülafűben",
+      "id": 13,
+      "listid": 4
+    },
+    {
+      "id": "14",
+      "commentbody": "proba hozzá adás",
+      "listid": 4
+    },
+    {
+      "listid": "0",
+      "commentbody": "asdadas123123",
+      "id": "L0JNMXC"
+    },
+    {
+      "listid": "0",
+      "commentbody": "elsőlistautolsóeleme",
+      "id": "3mCm2bB"
+    },
+    {
+      "listid": "4",
+      "commentbody": "utolsólistautolsóeleme",
+      "id": "bHoP1KG"
+    }
+  ]
+}

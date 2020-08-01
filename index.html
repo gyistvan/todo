@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="node_modules\bootstrap\dist\css\bootstrap.min.css">
+    <link rel="stylesheet" href="node_modules\font-awesome\css\font-awesome.min.css">
+</head>
+<body>
+    
+<div class="container">
+    <div class="row">
+        <div class="col-2">
+            <div id="loginform">
+                <label id="usernamelabel" for="username">Felhasználónév</label>
+                <span id="usernameIcon"></span>
+                <input name="username" id="username" class="form-control" type="text" required>
+                
+
+                <label for="password">Jelszó</label>
+                <input name="password" id="password" class="form-control" type="password" required>
+
+                <button class="btn btn-primary" id="logInBtn">Bejelentkezés</button>
+                <button class="btn btn-primary" id="regbtn2" style="display:none">Regisztráció</button>
+
+                <p id = "reglink">Nincs még fiókja? <button class="btn btn-link" id="regbtn">regisztáljon</button></p>
+            </div>    
+        </div>
+        <div class="col-8">
+            <div id="maincol">
+
+
+            </div>
+
+        </div>
+        <div class="col-2">
+            <button id="logOutBtn" class="btn btn-dark">Kijelentkezés</button>
+        </div>
+    </div>
+<div id="message"></div>
+
+</div>
+
+    <script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>
